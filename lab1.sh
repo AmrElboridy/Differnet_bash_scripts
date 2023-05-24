@@ -1,6 +1,3 @@
-[10:48 AM] Amr ElBoredie, Vodafone
-
-
 
 #!/bin/bash
 
